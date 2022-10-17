@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass BP-PPPreset_ADS.BP-PPPreset_ADS_C
+// Size: 0x2cff6950 (Inherited: 0x2cff6a50)
+struct UBP-PPPreset_ADS_C : UCameraPostProcessPreset {
+};
+
